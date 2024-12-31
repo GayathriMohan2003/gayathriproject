@@ -1,0 +1,8 @@
+body {
+    border:10px solid black;
+    display:flex;
+    justify-content: center;
+    min-height: 800px;
+    align-items: center;
+
+}
